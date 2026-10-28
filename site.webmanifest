@@ -1,7 +1,8 @@
 {
   "name": "Abakarsa",
   "short_name": "Abakarsa",
-  "description": "The digital home of Abakarsa.",
+  "description": "Web design, MikroTik network optimization, and digital wedding invitations by Abakarsa.",
+  "lang": "en",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fbf5e8",
